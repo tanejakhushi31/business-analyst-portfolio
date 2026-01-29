@@ -1,6 +1,9 @@
 # business-analyst-portfolio
 
+## Plant Co. Performance Report
+- Tool: Power BI
+- Live: https://bit.ly/PlantCoPerformance
+
 ## British Airways Review Dashboard
 - Tool: Tableau
-- Focus: Performance review and ratings for British Airways
 - Live: https://bit.ly/BritishAirwaysDashboard
